@@ -1,2 +1,2 @@
 # meep-cbd
-Cyberbullying detection system that uses machine learning to flag negative comments
+The purpose of this project is to build a cyberbullying detection system that uses machine learning to flag negative comments. The dataset contains statements, Their IDs and labels to indicate if it's positive or negative. The model is built using logistic regression as an optimisation on the existing project done on naive bayes algorithm. The libraries to be used in the project are sklearn and pandas
