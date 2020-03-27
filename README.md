@@ -8,9 +8,6 @@ Among the models used, Support Vector Machine exhibits the highest accuracy. It 
 2. Linear Dependency:
     Since the number of features in our dataset is less, the number of dimensions involved is also less. Ergo, the complexity of the equation of the decision boundary remains simpler, which makes classification faster.
 
-# Scope
-The Scope of this project is aimed at extending the use of Sentiment Analysis to internet forums and particulaly chatrooms, where there is prevalence of unparlimentary words, phrases and/or sentences. However, it can also be used in e-commerce to analyse the sentiments of the customers in regards to a product or a purchase, sometimes both. Sentiment Analysis can also be used in Social Media to detect fake news, upcoming trends, optimised recommendation based on the kind of content the consumer/user broadcasts, in addition to the kind of content the user consumes. 
-
 # Base Paper link: 
 https://www.researchgate.net/profile/Rui_Zhao61/publication/310768726_Automatic_Detection_of_Cyberbullying_on_Social_Networks_based_on_Bullying_Features/links/5c6cbd1392851c1c9dee9d9d/Automatic-Detection-of-Cyberbullying-on-Social-Networks-based-on-Bullying-Features.pdf
 Automatic Detection of Cyberbullying on Social Networks based on Bullying Features - Rui Zhao, Anna Zhuo, Kezhi Mao
